@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * PRINCIPIO DE SUSTITUCIÓN DE LISKOV
+ */
 class VideoPlayer
 {
     public function play($file)

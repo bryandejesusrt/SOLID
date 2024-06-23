@@ -1,6 +1,9 @@
 <?php
 session_start();
 
+/**
+ * PRINCIPIO DE RESPONSABILIDAD ÚNICA
+ */
 $_SESSION['login'] = true;
 $_SESSION['sales'] = [
     [

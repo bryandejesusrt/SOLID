@@ -1,6 +1,8 @@
 <?php
 
-
+/**
+ * PRINCIPIO ABIERTO/CERRADO
+ */
 // Circle = radio * radio * pi
 // Triangle = (base * height) / 2
 // Square = height * width

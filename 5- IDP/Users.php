@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * PRINCIPIO DE INVERSIÓN DE DEPENDENCIAS
+ */
+
 class Authenticatable
 {
 }
